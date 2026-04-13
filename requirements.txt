@@ -1,0 +1,10 @@
+# Core
+vanna[gemini,sqlite]>=2.0.0
+fastapi
+uvicorn[standard]
+plotly
+pandas
+python-dotenv
+
+# LLM provider — Option A: Google Gemini
+google-genai
