@@ -1,8 +1,3 @@
-"""
-vanna_setup.py
-Assignment-compliant Vanna 2.0 agent setup.
-"""
-
 import os
 import sqlite3
 from functools import lru_cache
