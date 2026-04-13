@@ -1,9 +1,3 @@
-"""
-setup_database.py
-Creates the clinic.db SQLite database with schema and realistic dummy data.
-Run: python setup_database.py
-"""
-
 import sqlite3
 import random
 from datetime import datetime, timedelta, date
