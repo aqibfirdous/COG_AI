@@ -159,7 +159,3 @@ The app blocks unsafe SQL before execution and handles:
 - database execution failures
 - empty result sets
 - upstream LLM/network failures
-
-## Benchmark Results
-
-The completed benchmark is documented in [RESULTS.md](RESULTS.md). Current recorded pass rate: **18/20**, with 2 partial cases caused by schema ambiguity around attributing invoice revenue to doctors or departments.
