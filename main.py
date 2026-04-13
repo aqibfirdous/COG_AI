@@ -1,15 +1,3 @@
-"""
-main.py
-FastAPI application for the NL2SQL Clinic Chatbot.
-
-Endpoints:
-  POST /chat    – Ask a natural-language question, get SQL + results + chart
-  GET  /health  – Health check
-
-Run:
-    uvicorn main:app --port 8000 --reload
-"""
-
 import re
 import time
 import uuid
