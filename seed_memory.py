@@ -1,8 +1,3 @@
-"""
-seed_memory.py
-Pre-seeds the Vanna 2.0 DemoAgentMemory with 15 known-good question->SQL pairs.
-"""
-
 from memory_seed import QA_PAIRS, preload_agent_memory_sync
 from vanna_setup import get_agent
 
